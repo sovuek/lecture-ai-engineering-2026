@@ -58,4 +58,5 @@ AIE_MODEL=gemini-3.5-flash-lite uv run python -m app.ask --temperature 2.0
 
 ### 自分の気づき
 
-（自分の言葉で書き足す）
+- AI が意外と間違えて、適当なことを言うのにびっくりした。
+- AI の速さがすごいと思った。
